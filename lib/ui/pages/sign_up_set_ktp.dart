@@ -1,6 +1,5 @@
 import 'package:bank_sha/shared/theme.dart';
 import 'package:bank_sha/ui/widgets/buttons.dart';
-import 'package:bank_sha/ui/widgets/forms.dart';
 import 'package:flutter/material.dart';
 
 class SignUpSetKtpPage extends StatelessWidget {
@@ -21,7 +20,7 @@ class SignUpSetKtpPage extends StatelessWidget {
               top: 100,
               bottom: 100,
             ),
-            decoration: BoxDecoration(
+            decoration: const BoxDecoration(
               image: DecorationImage(
                 image: AssetImage('assets/img_logo_light.png'),
               ),

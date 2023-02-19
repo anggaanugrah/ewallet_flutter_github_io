@@ -21,7 +21,7 @@ class SignInPage extends StatelessWidget {
               top: 100,
               bottom: 100,
             ),
-            decoration: BoxDecoration(
+            decoration: const BoxDecoration(
               image: DecorationImage(
                 image: AssetImage('assets/img_logo_light.png'),
               ),
