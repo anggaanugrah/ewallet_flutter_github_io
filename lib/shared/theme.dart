@@ -10,7 +10,7 @@ Color redColor = const Color(0xffEE2B47);
 Color greenColor = const Color(0xff00C897);
 Color linkColor = const Color(0xff53C1F9);
 Color lightBackground = const Color(0xffF8F8F8);
-Color darkBackground = const Color(0xff30343F);
+Color darkBackground = Color(0xFF18191A);
 
 // Space Mono Text Style
 TextStyle numberBlackTextStyle = GoogleFonts.spaceMono(
